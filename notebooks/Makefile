@@ -9,8 +9,8 @@
 
 
 NORMALIZE = ../../flotpython-tools/tools/nbnorm.py
-NORMOPTS-THIERRY = --author "Thierry Parmentelat" --logo-path ../media/inria-25-alpha.png --rise
-NORMOPTS-VALERIE = --author "Valérie Roy" --logo-path ../media/ensmp-25-alpha.png --rise
+NORMOPTS-THIERRY = --author "Thierry Parmentelat" --logo-path ../media/inria-25-alpha.png --rise --ipypublish
+NORMOPTS-VALERIE = --author "Valérie Roy" --logo-path ../media/ensmp-25-alpha.png --rise --ipypublish
 LICENCE_STRIP = ../../flotpython-gittutorial/tools/nbstriplicense.py
 
 
