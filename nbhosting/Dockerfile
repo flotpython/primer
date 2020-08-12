@@ -4,7 +4,3 @@
 FROM nbhosting/scipy-notebook
 
 RUN pip install --pre rise
-
-
-### speed up jupyter lab startup
-RUN jupyter lab build
